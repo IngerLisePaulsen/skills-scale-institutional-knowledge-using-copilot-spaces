@@ -17,8 +17,34 @@ This centralizes process knowledge, reduces dependency on individual expertise, 
 | [Risk Management & Communication](octoacme-risks-and-communication.md) | Risk identification, monitoring, and communication strategies |
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release planning, deployment procedures, and post-release activities |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Conducting retrospectives and implementing continuous improvement practices |
-| [Roles & Personas](octoacme-roles-and-personas.md) | Detailed definitions of roles, responsibilities, and team personas |
+| [Roles & Personas](octoacme-roles-and-personas.md) | Detailed definitions of roles, responsibilities, and team personas (expanded to include QA Engineers, Tech Leads, Release Managers, and Stakeholders) |
+
+## Templates & Checklists
+
+The following standardized templates and checklists provide practical tools for consistent project execution:
+
+| Template | Description | Addresses Gap |
+|----------|-------------|---------------|
+| [Onboarding Checklist](template-onboarding-checklist.md) | Comprehensive onboarding guide for new team members joining OctoAcme projects | Issue #4: Missing standardized onboarding process |
+| [Release Management Checklist](template-release-management-checklist.md) | End-to-end release planning, execution, and validation checklist | Issue #4: Missing standardized release management process |
+| [QA Process Checklist](template-qa-process-checklist.md) | Quality assurance checklist covering test planning, execution, and defect management | Issue #4: Missing standardized QA process |
+| [Stakeholder Engagement Template](template-stakeholder-engagement.md) | Structured approach for stakeholder identification, analysis, and communication | Issue #4: Missing standardized stakeholder engagement process |
 
 ---
 
-*References Issue #2*
+## Recent Improvements
+
+**Addressing Issue #4 Gaps:**  
+The documentation has been enhanced to address gaps identified in the project management process analysis:
+
+- ✅ **Expanded Roles & Personas**: Added QA/Testing Engineers, Tech Leads, Release Managers, and Stakeholders to provide clearer role definitions and responsibilities
+- ✅ **Standardized Onboarding**: Created comprehensive onboarding checklist template with role-specific guidance
+- ✅ **Release Management Process**: Established detailed release checklist covering planning, execution, and post-release activities
+- ✅ **QA Process Standards**: Documented complete QA process from test planning through defect management and sign-off
+- ✅ **Stakeholder Engagement**: Provided structured template for stakeholder analysis, communication planning, and engagement strategies
+
+These improvements ensure consistent, repeatable processes across all OctoAcme projects and reduce dependency on individual expertise.
+
+---
+
+*References Issue #2, Issue #4*
