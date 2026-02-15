@@ -40,3 +40,13 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+---
+
+## Additional Resources
+
+For comprehensive stakeholder identification, analysis, and engagement strategies, see the [Stakeholder Engagement Template](template-stakeholder-engagement.md) (addresses Issue #4 gap).
+
+---
+
+*This guide updated to reference new standardized templates from Issue #4 improvements.*

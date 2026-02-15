@@ -41,3 +41,15 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+---
+
+## Additional Resources
+
+For detailed stakeholder engagement and communication planning, see the [Stakeholder Engagement Template](template-stakeholder-engagement.md) (addresses Issue #4 gap).
+
+For onboarding new team members to the project, see the [Onboarding Checklist](template-onboarding-checklist.md) (addresses Issue #4 gap).
+
+---
+
+*This guide updated to reference new standardized templates from Issue #4 improvements.*
