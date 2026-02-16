@@ -36,8 +36,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held with all key roles (PM, PdM, UX Lead, Developers, QA Specialist)
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted by QA Specialist
+- [ ] Success metrics defined with Data Analyst input
+- [ ] Change management and training needs assessed by Change Manager
