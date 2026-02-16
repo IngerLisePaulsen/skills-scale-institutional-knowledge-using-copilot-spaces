@@ -19,6 +19,14 @@ This centralizes process knowledge, reduces dependency on individual expertise, 
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Conducting retrospectives and implementing continuous improvement practices |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Detailed definitions of roles, responsibilities, and team personas |
 
+## Supporting Resources
+
+| Document | Description |
+|----------|-------------|
+| [Responsibility Matrix (RACI)](responsibility-matrix.md) | Clear accountability matrix showing who is Responsible, Accountable, Consulted, and Informed for each activity |
+| [Role Interaction Workflow](role-interaction-workflow.md) | Visual workflow diagrams showing how roles collaborate throughout the project lifecycle |
+| [Role Onboarding Checklist](role-onboarding-checklist.md) | Comprehensive onboarding checklists for each role to get new team members up to speed quickly |
+
 ---
 
-*References Issue #2*
+*References Issues #2 and #5*
