@@ -36,3 +36,13 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+---
+
+## Additional Resources
+
+For a comprehensive, end-to-end release management process, see the [Release Management Checklist](template-release-management-checklist.md) template (addresses Issue #4 gap).
+
+---
+
+*This guide updated to reference new standardized templates from Issue #4 improvements.*

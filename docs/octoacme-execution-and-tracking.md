@@ -40,7 +40,17 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled (with UX Lead, Product Manager, and key stakeholders)
-- [ ] Risk register updated weekly (Project Manager owns)
-- [ ] Quality metrics dashboard active (QA Specialist and Data Analyst maintain)
-- [ ] Stakeholder communication plan in place (Change Manager coordinates)
+- [ ] Regular demos scheduled
+- [ ] Risk register updated weekly
+
+---
+
+## Additional Resources
+
+For comprehensive QA and testing procedures, see the [QA Process Checklist](template-qa-process-checklist.md) (addresses Issue #4 gap).
+
+For release planning and deployment procedures, see the [Release Management Checklist](template-release-management-checklist.md) (addresses Issue #4 gap).
+
+---
+
+*This guide updated to reference new standardized templates from Issue #4 improvements.*

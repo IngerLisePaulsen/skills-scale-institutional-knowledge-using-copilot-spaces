@@ -40,6 +40,16 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted by QA Specialist
-- [ ] Success metrics defined with Data Analyst input
-- [ ] Change management and training needs assessed by Change Manager
+- [ ] Initial test plan / QA approach drafted
+
+---
+
+## Additional Resources
+
+For detailed QA planning and test strategy, see the [QA Process Checklist](template-qa-process-checklist.md) (addresses Issue #4 gap).
+
+For stakeholder kickoff and engagement planning, see the [Stakeholder Engagement Template](template-stakeholder-engagement.md) (addresses Issue #4 gap).
+
+---
+
+*This guide updated to reference new standardized templates from Issue #4 improvements.*
