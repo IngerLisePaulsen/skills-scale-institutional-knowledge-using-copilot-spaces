@@ -14,19 +14,23 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Small PRs (<= 400 lines when possible)
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
-  - Require at least one approval before merging (or team-defined policy)
+  - Require at least one Developer approval before merging (or team-defined policy)
+  - UX Lead reviews UI/UX changes before merge
+  - QA Specialist validates acceptance criteria before production deployment
 
 ## Quality & Testing
-- Unit tests for new logic
-- Integration tests where applicable
-- End-to-end smoke tests for critical flows before release
-- Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Unit tests for new logic (Developer responsibility)
+- Integration tests where applicable (Developer and QA Specialist collaboration)
+- End-to-end smoke tests for critical flows before release (QA Specialist leads)
+- Security scanning in CI (automated with Developer and QA review)
+- Manual QA for feature acceptance when needed (QA Specialist validates)
+- Usability testing for UI changes (UX Lead coordinates with QA Specialist)
 
 ## Reporting & Metrics
-- Track velocity and burndown
-- Monitor success metrics identified in the Project One-pager
-- Use dashboards for key signals (errors, latency, usage)
+- Track velocity and burndown (Project Manager responsibility)
+- Monitor success metrics identified in the Project One-pager (Data Analyst provides reports)
+- Use dashboards for key signals: errors, latency, usage (Data Analyst maintains)
+- Report on quality metrics and defect trends (QA Specialist tracks)
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup

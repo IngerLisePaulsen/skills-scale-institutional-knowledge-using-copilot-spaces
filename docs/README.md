@@ -45,6 +45,14 @@ The documentation has been enhanced to address gaps identified in the project ma
 
 These improvements ensure consistent, repeatable processes across all OctoAcme projects and reduce dependency on individual expertise.
 
+## Supporting Resources
+
+| Document | Description |
+|----------|-------------|
+| [Responsibility Matrix (RACI)](responsibility-matrix.md) | Clear accountability matrix showing who is Responsible, Accountable, Consulted, and Informed for each activity |
+| [Role Interaction Workflow](role-interaction-workflow.md) | Visual workflow diagrams showing how roles collaborate throughout the project lifecycle |
+| [Role Onboarding Checklist](role-onboarding-checklist.md) | Comprehensive onboarding checklists for each role to get new team members up to speed quickly |
+
 ---
 
 *References Issue #2, Issue #4*
